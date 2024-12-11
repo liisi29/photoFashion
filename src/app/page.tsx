@@ -3,10 +3,7 @@ import { MainSlider } from "./components/mainSlider/Mainslider";
 export default function Home() {
   return (
     <div className={""}>
-      <main className={""}>
-        
-        <MainSlider />
-      </main>
+      <main className={""}>Hakkab looma..</main>
     </div>
   );
 }
